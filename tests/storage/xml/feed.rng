@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+    <start>
+        <element name="catalog">
+            <oneOrMore>
+                <element name="item">
+                    <element name="entity_id">
+                        <data type="integer"/>
+                    </element>
+                    <element name="CategoryName">
+                        <text/>
+                    </element>
+                    <element name="sku">
+                        <text/>
+                    </element>
+                    <element name="name">
+                        <text/>
+                    </element>
+                    <element name="description">
+                        <empty/>
+                    </element>
+                    <element name="shortdesc">
+                        <text/>
+                    </element>
+                    <element name="price">
+                        <text/>
+                    </element>
+                    <element name="link">
+                        <data type="anyURI"/>
+                    </element>
+                    <element name="image">
+                        <text/>
+                    </element>
+                    <element name="Brand">
+                        <text/>
+                    </element>
+                    <element name="Rating">
+                        <text/>
+                    </element>
+                    <element name="CaffeineType">
+                        <text/>
+                    </element>
+                    <element name="Count">
+                        <text/>
+                    </element>
+                    <element name="Flavored">
+                        <text/>
+                    </element>
+                    <element name="Seasonal">
+                        <text/>
+                    </element>
+                    <element name="Instock">
+                        <data type="NCName"/>
+                    </element>
+                    <element name="Facebook">
+                        <data type="integer"/>
+                    </element>
+                    <element name="IsKCup">
+                        <data type="integer"/>
+                    </element>
+                </element>
+            </oneOrMore>
+        </element>
+    </start>
+</grammar>
