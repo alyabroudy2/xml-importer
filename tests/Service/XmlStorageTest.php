@@ -23,7 +23,7 @@ class XmlStorageTest extends TestCase
     {
         $files = $this->storage->listFiles();
         $arrayResult = $files->toArray();
-        $this->assertSame(2, count($arrayResult));
+        $this->assertSame(1, count($arrayResult));
         $this->assertSame('feed.xml', $arrayResult[0]->path());
     }
 

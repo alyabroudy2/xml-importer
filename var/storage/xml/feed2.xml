@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+    <item>
+        <entity_id>340</entity_id>
+        <CategoryName><![CDATA[Green Mountain Ground Coffee]]></CategoryName>
+        <sku>20</sku>
+        <name><![CDATA[Green Mountain Coffee French Roast Ground Coffee 24 2.2oz Bag]]></name>
+        <description></description>
+        <shortdesc>
+            <![CDATA[Green Mountain Coffee French Roast Ground Coffee 24 2.2oz Bag steeps cup after cup of smoky-sweet, complex dark roast coffee from Green Mountain Ground Coffee.]]></shortdesc>
+        <price>41.6000</price>
+        <link>http://www.coffeeforless.com/green-mountain-coffee-french-roast-ground-coffee-24-2-2oz-bag.html</link>
+        <image>http://mcdn.coffeeforless.com/media/catalog/product/images/uploads/intro/frac_box.jpg</image>
+        <Brand><![CDATA[Green Mountain Coffee]]></Brand>
+        <Rating>0</Rating>
+        <CaffeineType>Caffeinated</CaffeineType>
+        <Count>24</Count>
+        <Flavored>No</Flavored>
+        <Seasonal>No</Seasonal>
+        <Instock>Yes</Instock>
+        <Facebook>1</Facebook>
+        <IsKCup>0</IsKCup>
+    </item>
+    <item>
+        <entity_id>342</entity_id>
+        <CategoryName><![CDATA[Nestle Hot Chocolate]]></CategoryName>
+        <sku>5000081171</sku>
+        <name><![CDATA[Nestle's Rich Hot Chocolate 50 Packets]]></name>
+        <description></description>
+        <shortdesc>
+            <![CDATA[Nestle's Rich Hot Chocolate 50 Packets bulk quantity prepare 50 individual servings of milk chocolate instant hot cocoa from Nestle Hot Chocolate.]]></shortdesc>
+        <price>11.9900</price>
+        <link>http://www.coffeeforless.com/nestles-milk-hot-chocolate-50-packets.html</link>
+        <image>http://mcdn.coffeeforless.com/media/catalog/product//n/e/nestle-hot-chocolate-mix-50-packets.png</image>
+        <Brand><![CDATA[Nestle]]></Brand>
+        <Rating>5</Rating>
+        <CaffeineType></CaffeineType>
+        <Count>50</Count>
+        <Flavored></Flavored>
+        <Seasonal></Seasonal>
+        <Instock>Yes</Instock>
+        <Facebook>1</Facebook>
+        <IsKCup>0</IsKCup>
+    </item>
+    <item>
+        <entity_id>343</entity_id>
+        <CategoryName><![CDATA[Green Mountain K-Cup&reg; Coffee]]></CategoryName>
+        <sku>7602C</sku>
+        <name><![CDATA[Green Mountain Coffee Vermont Country Blend Decaf K-Cup&reg; Coffee 96ct Medium]]></name>
+        <description></description>
+        <shortdesc>
+            <![CDATA[Green Mountain Coffee Vermont Country Blend Decaf K-Cup&amp;reg; Pods 96ct Medium case makes a balanced, mild-bodied decaf medium roast coffee from Green Mountain K-Cup&amp;reg; Pods.]]></shortdesc>
+        <price>59.9600</price>
+        <link>http://www.coffeeforless.com/green-mountain-coffee-vermont-country-blend-decaf-k-cups-96ct-medium.html
+        </link>
+        <image>
+            http://mcdn.coffeeforless.com/media/catalog/product//g/r/green-mountain-coffee-vermont-country-blend-decaf-k-cups-96ct-medium-914.jpg
+        </image>
+        <Brand><![CDATA[Green Mountain Coffee]]></Brand>
+        <Rating>5</Rating>
+        <CaffeineType>Decaffeinated</CaffeineType>
+        <Count>96</Count>
+        <Flavored>No</Flavored>
+        <Seasonal>No</Seasonal>
+        <Instock>Yes</Instock>
+        <Facebook>0</Facebook>
+        <IsKCup>1</IsKCup>
+    </item>
+    <item>
+        <entity_id>344</entity_id>
+        <CategoryName><![CDATA[Tazo Tea]]></CategoryName>
+        <sku>396</sku>
+        <name><![CDATA[Tazo Om Tea 24ct Box]]></name>
+        <description></description>
+        <shortdesc>
+            <![CDATA[Tazo Om Tea 24ct box allow you to steep 24 individual cups of flavorful, complicated blended tea when you prepare Tazo Tea.]]></shortdesc>
+        <price>"66"</price>
+        <link>http://www.coffeeforless.com/tazo-om-tea-24ct-box.html</link>
+        <image>http://mcdn.coffeeforless.com/media/catalog/product/images/coffeepods/tazo-om-tea-24ct-box.jpg</image>
+        <Brand><![CDATA[Tazo]]></Brand>
+        <Rating>5</Rating>
+        <CaffeineType>Caffeinated</CaffeineType>
+        <Count></Count>
+        <Flavored>No</Flavored>
+        <Seasonal>No</Seasonal>
+        <Instock>No</Instock>
+        <Facebook>1</Facebook>
+        <IsKCup>0</IsKCup>
+    </item>
+    <item><entity_id>6632</entity_id><CategoryName><![CDATA[Dunkin' Donuts K-Cup&reg; Pods]]></CategoryName><sku>57847CD</sku><name><![CDATA[Dunkin' Donuts French Vanilla K-Cup&reg; Coffee 60ct]]></name><description></description><shortdesc><![CDATA[Dunkin' Donuts French Vanilla K-Cup&amp;reg; Pods 60ct is a delightful treat in your coffee cup.]]></shortdesc><price>66.9900</price><link>http://www.coffeeforless.com/dunkin-donuts-french-vanilla-k-cups-60ct.html</link><image>http://mcdn.coffeeforless.com/media/catalog/product//d/u/dunkin-donuts-french-vanilla-k-cups-10ct_1.jpg</image><Brand><![CDATA[Dunkin' Donuts]]></Brand><Rating>0</Rating><CaffeineType>Caffeinated</CaffeineType><Count>60</Count><Flavored>Variety</Flavored><Seasonal>No</Seasonal><Instock>Yes</Instock><Facebook>0</Facebook><IsKCup>1</IsKCup></item>
+    <item><entity_id>6627</entity_id><CategoryName><![CDATA[Dunkin' Donuts K-Cup&reg; Pods]]></CategoryName><sku>57847B</sku><name><![CDATA[Dunkin' Donuts French Vanilla K-Cup&reg; Coffee 10ct]]></name><description></description><shortdesc><![CDATA[Dunkin' Donuts French Vanilla K-Cup&amp;reg; Pods 10ct is a delightful treat in your coffee cup.]]></shortdesc><price>11.9900</price><link>http://www.coffeeforless.com/dunkin-donuts-french-vanilla-k-cups-10ct.html</link><image>http://mcdn.coffeeforless.com/media/catalog/product//d/u/dunkin-donuts-french-vanilla-k-cups-10ct.jpg</image><Brand><![CDATA[Dunkin' Donuts]]></Brand><Rating>0</Rating><CaffeineType>Caffeinated</CaffeineType><Count>10</Count><Flavored>Variety</Flavored><Seasonal>No</Seasonal><Instock>Yes</Instock><Facebook>0</Facebook><IsKCup>1</IsKCup></item>
+    <item><entity_id>5998</entity_id><CategoryName><![CDATA[Shangri La Teas]]></CategoryName><sku>7100U</sku><name><![CDATA[Shangri La Organic Tea Bag Leather Presentation Box 81ct]]></name><description></description><shortdesc><![CDATA[Shangri La Organic Tea Leather Presentation Box includes 81 organic teas in nine delectable flavors packed in an elegant and stylish leatherette box.]]></shortdesc><price>64.9900</price><link>http://www.coffeeforless.com/shangri-la-organic-tea-bag-leather-presentation-box-81ct.html</link><image>http://mcdn.coffeeforless.com/media/catalog/product//s/h/shangri-la-organic-tea-bag-leather-presentation-box-81ct.jpg</image><Brand><![CDATA[Shangri La Tea]]></Brand><Rating>0</Rating><CaffeineType>Mixed</CaffeineType><Count>82</Count><Flavored>Variety</Flavored><Seasonal>No</Seasonal><Instock>Yes</Instock><Facebook>1</Facebook><IsKCup>0</IsKCup></item>
+    <item><entity_id>5987</entity_id><CategoryName><![CDATA[Shangri La Teas]]></CategoryName><sku>7300U</sku><name><![CDATA[Shangri La Organic Tea Sachet Leather Presentation Box 81ct]]></name><description></description><shortdesc><![CDATA[Shangri La Organic Tea Sachet Leather Presentation Box contains 81 of Shangri La's most popular flavored organic teas in a stylish and sleek leatherette box.]]></shortdesc><price>74.9900</price><link>http://www.coffeeforless.com/shangri-la-organic-tea-sachet-leather-presentation-box-81ct.html</link><image>http://mcdn.coffeeforless.com/media/catalog/product//s/h/shangri-la-organic-tea-sachet-leather-presentation-box-81ct.jpg</image><Brand><![CDATA[Shangri La Tea]]></Brand><Rating>0</Rating><CaffeineType>Mixed</CaffeineType><Count>82</Count><Flavored>Variety</Flavored><Seasonal>No</Seasonal><Instock>Yes</Instock><Facebook>1</Facebook><IsKCup>0</IsKCup></item>
+    <item><entity_id>4550</entity_id><CategoryName><![CDATA[New York Ground Coffee]]></CategoryName><sku>NYCSpiceCookie5LBGround</sku><name><![CDATA[New York Coffee Spice Cookie Flavored Ground Coffee 5lb Bag]]></name><description></description><shortdesc><![CDATA[This bulk quantity New York Coffee Spice Cookie Flavored Ground Coffee 5lb Bag provides you with many pots of spice cookie flavored New York Coffee.]]></shortdesc><price>65.9900</price><link>http://www.coffeeforless.com/new-york-coffee-spice-cookie-flavored-ground-coffee-5lb-bag.html</link><image>http://mcdn.coffeeforless.com/media/catalog/product/images/uploads/product/NYC_Coffee_Bag_whitebg.png</image><Brand><![CDATA[New York Coffee]]></Brand><Rating>0</Rating><CaffeineType>Caffeinated</CaffeineType><Count>1</Count><Flavored>Variety</Flavored><Seasonal>No</Seasonal><Instock>Yes</Instock><Facebook>1</Facebook><IsKCup>0</IsKCup></item>
+    <item><entity_id>4542</entity_id><CategoryName><![CDATA[New York Ground Coffee]]></CategoryName><sku>NYCDblChoChipCookie5LBGround</sku><name><![CDATA[New York Coffee Double Chocolate Chip Cookie Flavored Ground Coffee 5lb Bag]]></name><description></description><shortdesc><![CDATA[The bulk quantity New York Coffee Double Chocolate Chip Cookie Flavored Ground Coffee 5lb Bag makes quality double chocolate chip cookie flavored Coffee.]]></shortdesc><price>65.9900</price><link>http://www.coffeeforless.com/new-york-coffee-double-chocolate-chip-cookie-flavored-ground-coffee-5lb-bag.html</link><image>http://mcdn.coffeeforless.com/media/catalog/product/images/uploads/product/NYC_Coffee_Bag_whitebg.png</image><Brand><![CDATA[New York Coffee]]></Brand><Rating>0</Rating><CaffeineType>Caffeinated</CaffeineType><Count>1</Count><Flavored>Variety</Flavored><Seasonal>No</Seasonal><Instock>Yes</Instock><Facebook>1</Facebook><IsKCup>0</IsKCup></item>
+    <item><entity_id>2722</entity_id><CategoryName><![CDATA[Diedrich Coffee K-Cups]]></CategoryName><sku>60053-088B</sku><name><![CDATA[Diedrich Coffee 100% Colombia K-Cup&reg; Coffee 24ct | Expired]]></name><description></description><shortdesc><![CDATA[Diedrich Coffee 100% Colombia K-Cup&amp;reg; Pods 24ct box infuses 24 individual servings of full-roasted, medium roast coffee from these self-contained Diedrich Coffee K-Cup&amp;reg; Pods.]]></shortdesc><price>15.9900</price><link>http://www.coffeeforless.com/diedrich-coffee-100-colombia-k-cups-24ct.html</link><image>http://mcdn.coffeeforless.com/media/catalog/product/images/uploads/product/diedrich-coffee-100%-colombia-k-cups-24ct-expired-914.jpg</image><Brand><![CDATA[Diedrich]]></Brand><Rating>5</Rating><CaffeineType>Caffeinated</CaffeineType><Count>24</Count><Flavored>No</Flavored><Seasonal>No</Seasonal><Instock>No</Instock><Facebook>0</Facebook><IsKCup>1</IsKCup></item>
+
+
+
+</catalog>

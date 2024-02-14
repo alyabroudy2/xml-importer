@@ -29,8 +29,13 @@ XML_STORAGE_PATH='var/storage/xml'
 XML_ERROR_LOG_PATH='var/storage/log/xml_log.log'
  ```
 
-start database container 
+**install:**
+ ```shell
+composer install
  ```
+
+start database container 
+ ```shell
 docker compose up -d
  ```
 
@@ -53,37 +58,17 @@ php bin/console doctrine:migration:migrate -q
  ```
 -------------------------------
 **B) Run the import command:**
- ```
+ ```shell
 php bin/console app:xml-import
  ```
 
 **C) Run tests:**
- ```
+ ```shell
 php bin/phpunit
  ```
 
 
 **D) stop:**
- ```
+ ```shell
 docker compose down
- ```
-### Note:
-storage and log locations are limited to project working directory scope.
-if location outside the project directory scope is required the request locations can be configured
-as follow:
-+ log location in `config/packages/monolog.yaml` as:
- ```
-monolog:
-    handlers:
-        importer:
-            path: "your/error/log/location"
- ```
-+ storage location in `config/packages/flysystem.yaml` as:
- ```
-flysystem:
-    storages:
-        xml.storage:
-            adapter: 'local'
-            options:
-                directory: "your/xml-storage/location"
  ```

@@ -4,4 +4,4 @@ flysystem:
         xml.storage:
             adapter: 'local'
             options:
-                directory: '%kernel.project_dir%/%env(XML_STORAGE_PATH)%'
+                directory: '%env(XML_STORAGE_PATH)%'

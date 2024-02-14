@@ -5,7 +5,7 @@ monolog:
     handlers:
         importer:
             type: stream
-            path: "%kernel.project_dir%/%env(XML_ERROR_LOG_PATH)%"
+            path: "%env(XML_ERROR_LOG_PATH)%"
             level: info
             channels: [ 'importer' ]
 
